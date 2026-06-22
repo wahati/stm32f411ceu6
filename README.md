@@ -1,1 +1,1 @@
-# stm32f411ce
+# stm32f411ceu6
